@@ -1,0 +1,16 @@
+- NAO CONSEGUI TERMINAR O CODIGO NA PARTE DE ALTERAR DADOS, 
+FICOU FALTANDO A PARTE DE ALTERAR DISCIPLINAS
+
+- NAO CONSEGUI ATENDER AOS REQUISITOS ABAIXO:
+• Associar um professor a uma disciplina
+• Associar um aluno a uma disciplina
+• Associar uma sala de aula a uma disciplina
+• Desassociar um professor de uma disciplina
+• Desassociar um aluno de uma disciplina
+• Desassociar uma sala de aula de uma disciplina
+
+- NAO CONSEGUI ATENDER A BOA PARTE DAS RESTRICOES
+- TIVE ALGUNS PROBLEMAS DE IMPORT CIRCULAR QUE ME TOMARAM TEMPO (TIVE QUE REFATORAR O CODIGO)
+- OS ARQUIVOS "class_(nome).py" FORAM USADOS PARA MODULAR A ENTREGA
+- O ARQUIVO "dados_teste.py" FOI USADO PARA FAZER TESTES EM ALGUMAS OPCOES 
+QUE O USUARIO PODERIA SELECIONAR
